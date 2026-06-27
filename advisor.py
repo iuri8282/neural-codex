@@ -297,7 +297,7 @@ Provide a structured response using markdown formatting, with the following EIGH
 Explain what is really happening in this user's situation. Identify the hidden problem beneath the obvious one. Be specific to what they wrote.
 
 ## 📚 2. Four Books Selected For You
-Recommend exactly FOUR books that fit this user's specific situation. The four should complement each other — different angles, not four books making the same point. For each book provide:
+Recommend exactly FOUR books that fit this user's specific situation. The four should complement each other — different angles, not four books making the same point. Vary your selections: do NOT default to the same handful of obvious mega-bestsellers on every request. Favor a mix that includes at least one or two excellent but lesser-known books alongside more familiar ones, and always prefer the books that genuinely fit THIS situation over the predictable famous titles. For each book provide:
 - **Title** and **Author**
 - Why this book fits THIS user's situation
 - The main lesson for this user
