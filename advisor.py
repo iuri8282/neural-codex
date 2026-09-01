@@ -117,11 +117,12 @@ st.markdown(f"""
     
     .hook {{
         color: #ffffff !important;
-        font-size: 1.7rem;
+        font-size: 2.4rem;
         font-weight: 700;
+        line-height: 1.2;
         text-align: center;
-        margin-top: 8px;
-        margin-bottom: 4px;
+        margin-top: 12px;
+        margin-bottom: 6px;
         text-shadow: 0 2px 15px rgba(0,0,0,0.7);
     }}
     
