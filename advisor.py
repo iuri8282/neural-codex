@@ -115,6 +115,16 @@ st.markdown(f"""
         text-shadow: none;
     }}
     
+    .hook {{
+        color: #ffffff !important;
+        font-size: 1.7rem;
+        font-weight: 700;
+        text-align: center;
+        margin-top: 8px;
+        margin-bottom: 4px;
+        text-shadow: 0 2px 15px rgba(0,0,0,0.7);
+    }}
+    
     .tagline {{
         color: rgba(255,255,255,0.85) !important;
         font-size: 1.2rem;
@@ -256,7 +266,8 @@ Always respond in the SAME LANGUAGE the user wrote in (Russian, English, etc.)."
 
 # ============ ВЕБ-ИНТЕРФЕЙС ЗАГОЛОВКА ============
 st.markdown('<h1>Neural Codex</h1>', unsafe_allow_html=True)
-st.markdown('<p class="tagline">Wisdom from a thousand books. Distilled for your life.</p>', unsafe_allow_html=True)
+st.markdown('<p class="hook">Don\'t read books — apply them.</p>', unsafe_allow_html=True)
+st.markdown('<p class="tagline">Describe what you\'re facing — get the books that actually help, and exactly what to use right now.</p>', unsafe_allow_html=True)
 st.markdown("---")
 
 # ============ ЭТАП 1: ВВОД ДАННЫХ ПОЛЬЗОВАТЕЛЕМ ============
